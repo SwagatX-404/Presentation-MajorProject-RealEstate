@@ -1,0 +1,48 @@
+Question	Answer
+What is the main purpose of your project?	
+To build a user-friendly portal for buying, renting, and selling real estate properties with direct communication between buyers and sellers.
+
+Why did you choose React and Node.js?	
+React for fast, modular frontend development; Node.js + Express for efficient, scalable backend handling API requests.
+
+How is authentication handled?	
+Firebase Authentication allows both Google Sign-In and manual login with email/password.
+
+Where are the images stored?	
+Firebase Storage is used to securely upload and serve listing images.
+
+What database did you use and why?
+MongoDB – because it's flexible with unstructured data, and fits well with Node.js backend using Mongoose ODM.
+
+What filters have you applied?	
+Users can search by price (low-to-high or high-to-low), title, description, and location.
+
+What is the use of Gemini API in your project?	
+It powers the chatbot that answers real estate-related queries like legal help, pricing, or buying tips.
+
+How is your UI responsive?	
+I used Tailwind CSS to create responsive components that adapt across devices.
+
+How would you add admin verification?	
+By creating a separate admin login panel where admin can approve/reject listings before they go live.
+
+What are some improvements you want to make?	
+Price prediction using ML, property recommendation system, AR/VR tours, and smart contract for secure transactions.
+
+
+💡 3. Improvements You Can Mention
+
+    Add JWT-based secure authentication (along with Firebase)
+
+    Notification system (email or in-app for interest/contact)
+
+    Real-time chat using Socket.io
+
+    Add map integration (e.g., Google Maps) for location view
+
+    Add analytics for views, interests, user actions
+
+    Separate buyer and seller dashboards
+
+    Auto-moderation system for content/image abuse
+
