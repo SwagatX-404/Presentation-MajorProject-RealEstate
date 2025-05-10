@@ -1,0 +1,111 @@
+🔹 Slide 1: Title Slide
+
+Script:
+"Good morning/afternoon everyone. My name is Swagat, and today I am presenting my major project titled 'Smart Real Estate Portal', developed using Vite + React, Node.js, Express.js, and MongoDB. This project aims to simplify property transactions digitally."
+🔹 Slide 2: Introduction
+
+Script:
+"Real estate in India is largely offline and unorganized. Buyers and sellers often struggle with transparency and communication. My project provides a digital platform to list, search, and communicate about properties easily."
+🔹 Slide 3: Objectives
+
+Script:
+"The main objective is to build a responsive, user-friendly web application where users can buy, rent, or sell properties, and connect directly with landlords through live interaction."
+🔹 Slide 4: Tech Stack
+
+Script:
+
+    Frontend: React + Tailwind CSS (with Vite)
+
+    Backend: Node.js + Express
+
+    Database: MongoDB
+
+    Authentication: Firebase (Google Sign-In + Manual login)
+
+    Chatbot: Gemini API
+
+    State Management: Redux
+
+🔹 Slide 5: Workflow / Architecture
+
+Script:
+"The user flow begins with visiting the website. They can sign up manually or through Google. After login, users can edit their profile, view properties, filter by price/location/title, contact landlords, or create/edit/delete listings."
+
+(Show a flow diagram if possible.)
+🔹 Slide 6: Features
+
+Script:
+
+    User Signup/Login (manual + Google)
+
+    Profile Management (Name, DP)
+
+    Create Listings (Flat, Land, House)
+
+    Search by price, location, title
+
+    Editable & Deletable Listings
+
+    Contact Landlord
+
+    Chatbot for real estate queries (via Gemini API)
+
+    Responsive UI with modern design
+
+🔹 Slide 7: Demo (Screenshots or Live)
+
+Show:
+
+    Signup/Login
+
+    Dashboard
+
+    Search Functionality
+
+    Create Listing Page
+
+    Chatbot Interaction
+
+    Contact Owner Button
+
+🔹 Slide 8: Challenges Faced
+
+Script:
+
+    Firebase Google login integration
+
+    Real-time interaction (chat, listing updates)
+
+    Managing filters and search performance
+
+    Limited functionality in chatbot using Gemini API
+
+🔹 Slide 9: Future Scope
+
+Script:
+In the future, I plan to integrate:
+
+    Admin verification system
+
+    Property Price Prediction using AI/ML
+
+    Real estate calculators (EMI, ROI, Stamp Duty)
+
+    Blogs & News Section
+
+    AR/VR property visualization
+
+    Smart Contracts using blockchain
+
+    Better property recommendations via AI
+
+    24x7 Customer Support
+
+🔹 Slide 10: Conclusion
+
+Script:
+"This project has helped me learn how to build a full-stack real-world application using modern technologies. It solves a real-world problem and has great scope for future improvements."
+🔹 Slide 11: Q&A
+
+Script:
+"Thank you. I'm happy to answer any questions."
